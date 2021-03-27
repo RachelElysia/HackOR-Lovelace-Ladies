@@ -10,7 +10,8 @@
 }
 
 #Nav-bar a {
- text-decoration: none;
+  text-decoration: none;
+  padding: 0;
 }
 
 
